@@ -1,5 +1,3 @@
-# SinhVienController.md
-
 ## Giới thiệu về SinhVienController
 
 `SinhVienController` là một controller trong ASP.NET Core MVC, chịu trách nhiệm xử lý các yêu cầu HTTP liên quan đến quản lý sinh viên. Controller này triển khai các thao tác CRUD (Create, Read, Update, Delete) cho đối tượng SinhVien.
