@@ -1,0 +1,13 @@
+﻿@model SinhVien
+@{
+	ViewData["Title"] = "Xóa sinh viên";
+}
+<h2>Xóa sinh viên</h2>
+
+<h3>Bạn có chắc chắn muốn xóa sinh viên @Model.HoVaTen (@Model.MaSinhVien)?</h3>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <input type="submit" value="Xóa" onclick="return confirm('Bạn có chắc chắn muốn xóa?');" />
+    <a asp-action="Index">Quay lại danh sách</a>
+</form>

@@ -1,0 +1,66 @@
+﻿@model SinhVien
+@{
+	ViewData["Title"] = "Chi tiết thông tin sinh viên";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div class="card mt-3">
+    <div class="card-header bg-primary text-white">
+        <h4>Thông tin sinh viên</h4>
+    </div>
+    <div class="card-body">
+        <div class="row mb-3">
+            <div class="col-md-3">
+                <strong>Id:</strong>
+            </div>
+            <div class="col-md-9">
+                @Model.Id
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-3">
+                <strong>Mã sinh viên:</strong>
+            </div>
+            <div class="col-md-9">
+                @Model.MaSinhVien
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-3">
+                <strong>Họ và tên:</strong>
+            </div>
+            <div class="col-md-9">
+                @Model.HoVaTen
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-3">
+                <strong>Email:</strong>
+            </div>
+            <div class="col-md-9">
+                <a href="mailto:@Model.Email">@Model.Email</a>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-3">
+                <strong>Số điện thoại:</strong>
+            </div>
+            <div class="col-md-9">
+                @Model.SoDienThoai
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-3">
+                <strong>Ngày sinh:</strong>
+            </div>
+            <div class="col-md-9">
+                @Model.NgaySinh.ToString("dd/MM/yyyy")
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        <a asp-controller="SinhVien" asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Quay lại danh sách
+        </a>
+    </div>
+</div>
