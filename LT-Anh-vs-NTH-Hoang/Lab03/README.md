@@ -40,8 +40,8 @@ Project QuanLySinhVien được tổ chức theo cấu trúc chuẩn của ASP.N
 
 ## Cách cài đặt và hướng dẫn
 
-1. Download folder ./QuanLySinhVien
-2. Giải thích Models ./model.md
-3. Giải thích Controllers ./controller.md
-4. Giải thích Views ./view.md
+1. Download folder(./QuanLySinhVien)
+2. Giải thích Models(./model.md)
+3. Giải thích Controllers(./controller.md)
+4. Giải thích Views(./view.md)
 
