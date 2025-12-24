@@ -1,0 +1,38 @@
+@model Employee
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+
+<h2>Ch?nh s?a nhân viên</h2>
+
+<form asp-action="Edit" method="post" class="mt-3">
+    @Html.AntiForgeryToken()
+    <input asp-for="Id" type="hidden" />
+
+    <div class="mb-3">
+        <label>Tên</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label>V? trí</label>
+        <input asp-for="Position" class="form-control" />
+        <span asp-validation-for="Position" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label>Tu?i</label>
+        <input asp-for="Age" class="form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">L?u</button>
+    <a href="/Employee" class="btn btn-secondary">H?y</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
