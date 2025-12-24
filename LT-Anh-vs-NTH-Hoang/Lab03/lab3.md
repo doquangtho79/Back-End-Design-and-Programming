@@ -36,3 +36,12 @@ Project QuanLySinhVien được tổ chức theo cấu trúc chuẩn của ASP.N
 3. Controller xử lý yêu cầu, tương tác với Model để truy vấn hoặc cập nhật dữ liệu.
 4. Controller chọn View phù hợp và truyền dữ liệu (ViewModel) để render.
 5. View được render thành HTML và trả về cho người dùng.
+
+
+## Cách cài đặt và hướng dẫn
+
+1. Download folder ./QuanLySinhVien
+2. Giải thích Models ./model.md
+3. Giải thích Controllers ./controller.md
+4. Giải thích Views ./view.md
+
