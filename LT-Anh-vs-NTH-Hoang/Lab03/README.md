@@ -10,6 +10,11 @@ Bài toán quản lý sinh viên cơ bản là một ứng dụng web đơn gi�
 - **Xóa sinh viên**: Loại bỏ thông tin của một sinh viên khỏi hệ thống.
 - **Xem chi tiết sinh viên**: Hiển thị thông tin đầy đủ của một sinh viên cụ thể.
 
+## Hình ảnh Demo
+<p align="center">
+    <img src="./demo.PNG" alt="Demo" />
+</p>
+
 ## Cài đặt và giải thích
 
 1. Download folder [QuanLySinhVien](./QuanLySinhVien)
