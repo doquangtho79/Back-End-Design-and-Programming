@@ -10,6 +10,13 @@ Bài toán quản lý sinh viên cơ bản là một ứng dụng web đơn gi�
 - **Xóa sinh viên**: Loại bỏ thông tin của một sinh viên khỏi hệ thống.
 - **Xem chi tiết sinh viên**: Hiển thị thông tin đầy đủ của một sinh viên cụ thể.
 
+## Cài đặt và giải thích
+
+1. Download folder [QuanLySinhVien](./QuanLySinhVien)
+2. Giải thích Models [tại](./model.md)
+3. Giải thích Controllers [tại](./controller.md)
+4. Giải thích Views [tại](./view.md)
+
 ## Mô hình MVC (Model-View-Controller)
 
 Mô hình MVC là một kiến trúc phần mềm phổ biến được sử dụng trong phát triển ứng dụng web. Nó tách biệt logic nghiệp vụ, giao diện người dùng và điều khiển luồng dữ liệu thành ba thành phần riêng biệt:
@@ -37,11 +44,4 @@ Project QuanLySinhVien được tổ chức theo cấu trúc chuẩn của ASP.N
 4. Controller chọn View phù hợp và truyền dữ liệu (ViewModel) để render.
 5. View được render thành HTML và trả về cho người dùng.
 
-
-## Cách cài đặt và hướng dẫn
-
-1. Download folder [QuanLySinhVien](./QuanLySinhVien)
-2. Giải thích Models [tại](./model.md)
-3. Giải thích Controllers [tại](./controller.md)
-4. Giải thích Views [tại](./view.md)
 
