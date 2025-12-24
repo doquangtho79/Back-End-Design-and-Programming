@@ -19,5 +19,5 @@
 
 </div>
 
-## 📖 1. Tài liệu học tập
+## 📖 1. Tài liệu học tập theo giảng viên
 - #### [Lê Tuấn Anh, Nguyễn Thế Huy Hoàng](./LT-Anh-vs-NTH-Hoang/)
