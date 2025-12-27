@@ -1,5 +1,6 @@
 ﻿using EmployeeManagement.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace EmployeeManagement.Controllers
 {
@@ -11,6 +12,16 @@ namespace EmployeeManagement.Controllers
         new Employee { Id = 1, Name = "Thơ", Position = "Nhân viên", Age = 30, Email = "thodq@example.com" },
         new Employee { Id = 2, Name = "Công", Position = "Lãnh đạo", Age = 25, Email = "congtd@example.com" }
     };
+
+        // Danh sách vị trí
+        private List<SelectListItem> GetPositions()
+        {
+            return new List<SelectListItem>
+            {
+                new SelectListItem { Value = "Nhân viên", Text = "Nhân viên" },
+                new SelectListItem { Value = "Lãnh đạo", Text = "Lãnh đạo" }
+            };
+        }
 
         // GET: /Employee
         [HttpGet]
@@ -32,6 +43,7 @@ namespace EmployeeManagement.Controllers
         [HttpGet]
         public IActionResult Create()
         {
+            ViewBag.Positions = GetPositions();
             return View(); // Hiển thị form thêm mới
         }
 
@@ -45,6 +57,7 @@ namespace EmployeeManagement.Controllers
                 _employees.Add(employee);
                 return RedirectToAction("Index");
             }
+            ViewBag.Positions = GetPositions();
             return View(employee);
         }
 
@@ -54,6 +67,7 @@ namespace EmployeeManagement.Controllers
         {
             var employee = _employees.FirstOrDefault(e => e.Id == id);
             if (employee == null) return NotFound();
+            ViewBag.Positions = GetPositions();
             return View(employee);
         }
 
@@ -73,6 +87,7 @@ namespace EmployeeManagement.Controllers
 
                 return RedirectToAction("Index");
             }
+            ViewBag.Positions = GetPositions();
             return View(employee);
         }
 
