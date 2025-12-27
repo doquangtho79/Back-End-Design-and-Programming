@@ -1,0 +1,9 @@
+﻿@model List<Author>
+<h2>Danh sách tác giả</h2>
+<a asp-action="Create">Thêm tác giả</a>
+<ul>
+    @foreach (var author in Model)
+    {
+        <li> <p>  @author.Id - Tên: @author.Name  - Quốc tịch:  @author.Nationality </p></li>
+    }
+</ul>

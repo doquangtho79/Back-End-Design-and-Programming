@@ -1,0 +1,66 @@
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.staticwebassets.runtime.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.staticwebassets.endpoints.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.exe
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.deps.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.runtimeconfig.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.dll
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.pdb
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfoInputs.cache
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfo.cs
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.RazorAssemblyInfo.cache
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.RazorAssemblyInfo.cs
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\scopedcss\bundle\BookManagement.styles.css
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\scopedcss\projectbundle\BookManagement.bundle.scp.css
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.dll
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\refint\BookManagement.dll
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.pdb
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.genruntimeconfig.cache
+C:\Users\MINHTAN\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\ref\BookManagement.dll
+D:\Back-end Code\BookManagement\BookManagement\bin\Debug\net8.0\appsettings.Development.json
+D:\Back-end Code\BookManagement\BookManagement\bin\Debug\net8.0\appsettings.json
+D:\Back-end Code\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.staticwebassets.endpoints.json
+D:\Back-end Code\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.staticwebassets.runtime.json
+D:\Back-end Code\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.exe
+D:\Back-end Code\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.deps.json
+D:\Back-end Code\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.runtimeconfig.json
+D:\Back-end Code\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.dll
+D:\Back-end Code\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.pdb
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfoInputs.cache
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfo.cs
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.csproj.CoreCompileInputs.cache
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.RazorAssemblyInfo.cache
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.RazorAssemblyInfo.cs
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\scopedcss\bundle\BookManagement.styles.css
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\scopedcss\projectbundle\BookManagement.bundle.scp.css
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.build.json
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.development.json
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.dll
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\refint\BookManagement.dll
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.pdb
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.genruntimeconfig.cache
+D:\Back-end Code\BookManagement\BookManagement\obj\Debug\net8.0\ref\BookManagement.dll

@@ -1,0 +1,14 @@
+﻿@model List<Book>
+
+<h2>Danh sách sách</h2>
+<a asp-action="Create" class="btn btn-sm btn-primary">Thêm sách</a>
+<ul>
+    @foreach (var book in Model)
+    {
+        <li>
+            @book.Title - @book.Author
+            <a asp-action="Edit" asp-route-id="@book.Id" class="btn btn-sm btn-secondary">Edit</a>
+        </li>
+    }
+</ul>
+
